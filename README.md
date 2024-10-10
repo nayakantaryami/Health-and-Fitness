@@ -2,7 +2,7 @@
 
 
 ## Landing Page
-![health fitness](https://fitnesshealthusingreact.netlify.app)
+[health fitness](https://fitnesshealthusingreact.netlify.app)
 ## Source Code 
 ![health fitness](https://github.com/nayakantaryami/Health-and-Fitness)
 
